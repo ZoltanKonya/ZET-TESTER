@@ -3977,17 +3977,17 @@
         "answers": [
           {
             "answer": "40",
-            "isCorrect": false,
+            "isCorrect": true,
             "id": 0
           },
           {
             "answer": "80",
-            "isCorrect": true,
+            "isCorrect": false,
             "id": 1
           },
           {
             "answer": "100",
-            "isCorrect": true,
+            "isCorrect": false,
             "id": 2
           },
           {
